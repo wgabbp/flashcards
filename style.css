@@ -1,3 +1,34 @@
 body {
-    background-color: bisque;
+    background-color: rgb(146, 243, 230);
 }
+footer {
+    background-color: black;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
+}
+footer p {
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0.5rem;
+}
+body {
+    background-color: rgb(146, 234, 250);
+    font-family: Bai Jamjuree;
+}
+/* código omitido */
+
+.cartao__conteudo h3 {
+    background-color: tomato;
+    text-align: left;
+    padding: 0.5rem;
+    position: absolute;
+    margin: 0.6rem;
+    border-radius:0.6rem;
+    font-size: 1vw;
+    
+}
+
+/* código omitido */
