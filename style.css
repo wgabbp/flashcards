@@ -21,7 +21,7 @@ body {
 }
 /* código omitido */
 .cartao__conteudo h3 {
-    background-color: tomato;
+    background-color: rgb(207, 216, 255);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
