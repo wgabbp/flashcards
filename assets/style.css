@@ -1,5 +1,5 @@
 root{
-    --text-color: #ffffff;
+    --text-color: #e3b4ec;
     --card-front-color: hsl(271, 89%, 75%);
     --card-back-color: #e3b4ec;
     }
@@ -10,7 +10,7 @@ root{
     }
    
     .cartao_conteudo {
-    background-color: var(--card-front-color);
+    background-color: var(biologia.jpg);
     text-align: center;
     height: 100%;
     transform-style: preserve-3d;
@@ -75,7 +75,7 @@ root{
     }
    
     footer {
-    color: white;
+    color: rgb(182, 232, 245);
     position: fixed;
     bottom: 0;
     width: 100%;
