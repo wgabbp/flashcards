@@ -5,12 +5,12 @@ root{
     }
    
     body {
-    background: url(biologia.jpg));
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiIwEP6H9KXEaHZ8tOuPzEL3c6DNlDIsC3WWS74gY5dJJKkh-orKrdzDWo-AuRSSwoFFs&usqp=CAU));
     font-family: Tomorrow;
     }
    
     .cartao_conteudo {
-    background-color: var(biologia.jpg);
+    background-color: var(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiIwEP6H9KXEaHZ8tOuPzEL3c6DNlDIsC3WWS74gY5dJJKkh-orKrdzDWo-AuRSSwoFFs&usqp=CAU);
     text-align: center;
     height: 100%;
     transform-style: preserve-3d;
