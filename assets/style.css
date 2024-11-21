@@ -1,15 +1,16 @@
-root{
-    --text-color: #f3f3f3f5;
-    --card-front-color: hsl(271, 89%, 75%);
-    --card-back-color: #e3b4ec;
+:root{
+    --text-color: #ffffff;
+    --card-front-color: #09683d;
+    --card-back-color: #15AE68;
     }
-   ttps://encrypte
+   
     body {
-    background: url());
-    /* font-familyTomorrow; */
+    background: url(img/img-site.jpg);
+    font-family: Tomorrow;
+    }
    
     .cartao_conteudo {
-    background-color: (biologia.jpg);
+    background-color: var(--card-front-color);
     text-align: center;
     height: 100%;
     transform-style: preserve-3d;
@@ -74,7 +75,7 @@ root{
     }
    
     footer {
-    color: rgb(182, 232, 245);
+    color: white;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -86,3 +87,5 @@ root{
     font-size: 0.6rem;
     margin-top: 0.5rem;
     }
+   
+    
