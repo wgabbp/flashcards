@@ -1,11 +1,11 @@
 :root{
-    --text-color: #ffff;
+    --text-color: #1a1818;
     --card-front-color: #bbbcf5;
-    --card-back-color: #8d1471;
+    --card-back-color: #ffc3f1;
     }
    
     body {
-    background: url(https://images.app.goo.gl/dXZjNkRza9TUgBgK6);
+    background: url(https://images.app.goo.gl/dfwm6xbk6io1ii9K6);
     font-family: Tomorrow;
     }
    
